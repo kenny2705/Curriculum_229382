@@ -1,0 +1,54 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 6 oct 2025, 22:40:07
+    Author     : Acer
+*/
+@import url("./global.css");
+body {
+    /* Color de fondo */
+    background-color: #f4f4f9;
+}
+
+/* Encabezado principal */
+header {
+    /* Color de fondo para el encabezado */
+    background-color: #2c3e50;
+    /* Relleno interior para dar espacio al contenido */
+    padding: 20px;
+}
+
+/* Barra de navegación */
+nav {
+    /* Margen  para separarla del nombre */
+    margin-top: 15px;
+}
+
+
+/* Separar articulos como cuadros*/
+article {
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+/* Titulos de cada seccion */
+h2 {
+    background-color: #3498db;
+    margin-top: 0;
+    padding: 10px;
+}
+
+/* Estilo para las listas */
+ul {
+    padding-left: 20px;
+}
+
+/* Estilo para el pie de página */
+footer {
+    background-color: #34495e;
+    padding: 15px;
+    width: 100%;
+}

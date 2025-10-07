@@ -1,0 +1,21 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 25 sept 2025, 16:50:28
+    Author     : Acer
+*/
+@import url('https://fonts.googleapis.com/css2?family=Alan+Sans:wght@300..900&display=swap');
+/*Selector para definir variables*/
+:root{
+    --bg-color-dark:rgb(130,87,136);
+    --bg-section-color: #3E5577;
+    --bg-title-color: withe;
+    --font-section-color: black;
+    --hightlight: #EDF67D;
+    --hightlight-error: #E27E7C;
+    --bg-color-blue: #0E0788;
+    
+}
+
